@@ -1,4 +1,6 @@
 .header {
   color:  blueviolet;
-  font:  large, "Monaco", Monospace, bold;
+  font-size: large;
+  font-weight: 300;
+  font-family: 'Courier New', Courier, monospace;
 }
